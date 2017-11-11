@@ -1,14 +1,14 @@
 {
     // This is your MYSQL Database configuration
     db: {
-        name: "dfsk95n6ltch37",
-        password: "5e0609b0a9a5a4b7da80ea84492cee7956226bccc10223dc9deb4fca0e429cc7",
-        username: "jbhohxrvvwklti",
-        host: "ec2-54-83-48-188.compute-1.amazonaws.com",
-        port: 5432
+        name: "offerkmh_demoapp",
+        password: "demoApp",
+        username: "offerkmh_demoApp",
+        host: "offersagar.com",
+        port: 3306
     },
     app: {
-        name: "M*EAN Stack Relational - Development"
+        name: "SampleApp - Development"
     },
     // You will need to get your own client id's before this will work properly
     facebook: {
