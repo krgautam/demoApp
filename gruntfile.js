@@ -85,7 +85,7 @@ module.exports = function(grunt) {
         },
         nodemon: {
             dev: {
-                script: 'server.js',
+                script: 'app.js',
                 options: {
                     args: ['--color'],
                     ignore: ['README.md', 'node_modules/**', '.DS_Store'],
