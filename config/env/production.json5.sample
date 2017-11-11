@@ -1,12 +1,12 @@
 {
     // This is your MYSQL Database configuration
     db: {
-        name: "mean_relational",
-        password: "",
-        username: "root",
-        host:"localhost",
-        port:3306
-    },
+        name: "offerkmh_demoapp",
+        password: "demoApp",
+        username: "offerkmh_demoApp",
+        host: "offersagar.com",
+        port: 3306
+},
     app: {
         name: "M*EAN Stack Relational - Production"
     },
